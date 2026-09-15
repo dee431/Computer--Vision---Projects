@@ -21,6 +21,7 @@ Whether you're a beginner looking to learn the basics or an experienced practiti
 ## Projects
 
 ### 1. **Image Classification**
+Images_Read_Me/YOLO.png
    - **Description**: A project that classifies images into predefined categories using convolutional neural networks (CNNs).
    - **Key Features**:
      - Utilizes transfer learning with pre-trained models.
@@ -28,6 +29,7 @@ Whether you're a beginner looking to learn the basics or an experienced practiti
    - **Technologies Used**: Python, TensorFlow, Keras
 
 ### 2. **Object Detection**
+Images_Read_Me/SSD_model.jpeg
    - **Description**: Detect and classify objects in images and videos in real time.
    - **Key Features**:
      - Implements YOLO and SSD models.
