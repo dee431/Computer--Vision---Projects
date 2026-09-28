@@ -4,6 +4,20 @@ Before a machine can recognize complex objects, it must perceive structure. It d
 
 <img width="250" height="271" alt="image" src="https://github.com/user-attachments/assets/c9db1506-7da3-4de6-b5bc-ce1e766a10e3" />
 
+
+<img width="365" height="363" alt="image" src="https://github.com/user-attachments/assets/442ee071-2896-4afa-9e08-00be130c27ee" />
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ae228d1d-bc0c-474f-b366-a736d6547656" />
+
+
+<img width="567" height="218" alt="image" src="https://github.com/user-attachments/assets/d334e2b7-4c70-4964-8271-3da4f0ae3612" />
+
+
+
+
+
+
 Feature Extraction via Intensity Gradients
 Using mathematical convolutions, such as the Sobel operator, the vision pipeline calculates partial derivatives across pixel coordinates (x,y) to determine gradient magnitude G:
 G= 
